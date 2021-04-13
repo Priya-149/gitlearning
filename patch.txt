@@ -1,0 +1,5 @@
+git am <patches/patch_name>
+
+GIT PATCHES:
+
+git format-patch <branch with which it should be compared> -o patches/
